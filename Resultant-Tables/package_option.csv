@@ -1,0 +1,315 @@
+id,tour_id,title,original_price_usd,final_price_usd
+1,1,"AM City Tour",65.00,52.78
+2,1,"AM City Tour & 4h Bike Rental",89.00,72.27
+3,1,"AM City Tour & Aquarium",93.00,75.51
+4,1,"AM City Tour & Bay Cruise",95.00,77.14
+5,2,"Straight to the Gate Access: San Francisco Escape from the Rock Cruise",46.00,32.48
+6,3,"San Francisco Half-Day Tour",69.00,69.00
+7,4,"Streets of San Francisco Tour",99.00,82.61
+8,5,"Cable Car Audio Tour Only",15.00,13.05
+9,5,"Tour and Cable Car Tickets",23.00,20.01
+10,5,"Tour and Cable Car Tickets",39.00,33.93
+11,6,"North Beach/Little Italy Walking Food Tour | Adult (14 years or older)",74.00,74.00
+12,6,"North Beach/Little Italy Walking Food Tour | 1 Adult (14 years or older) and 1 Child (2-7 years old)",99.00,99.00
+13,6,"North Beach/Little Italy Walking Food Tour | 1 Adult (14 years or older) and 1 Teenager (8-13 years old)",123.00,123.00
+14,7,"Chinatown & North Beach Walking Tour | 1 adult (14 years or older) and 1 teenager (8-13 years old)",138.00,138.00
+15,7,"Chinatown & North Beach Walking Tour | 1 Adult (14 years or older) and 1 Child (2-7 years old)",114.00,114.00
+16,7,"Chinatown & North Beach Walking Tour | Adult (14 years or older)",84.00,84.00
+17,8,"Golden Gate Bridge to Sausalito Bike Tour | City Bike",65.00,54.24
+18,8,"Golden Gate Bridge to Sausalito Bike Tour with Ferry Ticket | City Bike",83.00,69.26
+19,8,"Golden Gate Bridge to Sausalito Bike Tour | Electric Bike",95.00,79.27
+20,8,"Golden Gate Bridge to Sausalito Bike Tour with Ferry Ticket | Electric Bike",113.00,94.29
+21,9,"Chinatown Walking Food Tour | 1 Adult (14 years or older) and 1 Child (2-7 years old)",99.00,99.00
+22,9,"Chinatown Walking Food Tour | 1 Adult (14 years or older) and 1 Teenager (8-13 years old)",123.00,123.00
+23,9,"Chinatown Walking Food Tour | Adult (14 years or older)",74.00,74.00
+24,10,"Redwoods of Marin and Mt. Tamalpais Walking Tour with Local Guide",65.00,58.36
+25,11,"Private Sailing Charter (3hr.)",895.00,768.27
+26,12,"Wine and Dine on a Century Old Sausalito Yacht",400.00,348.00
+27,13,"Private Sailing Charter (2hr.)",795.00,682.43
+28,14,"Double Decker City Tour",68.00,54.09
+29,15,"The Golden Gate Bridge Guided Bike Tour by Unlimited Biking",70.65,59.89
+30,16,"Mission District Walking Tour",99.00,78.70
+31,17,"San Francisco City Tour (Morning Departure)",69.00,54.85
+32,18,"Join-In Tour",48.99,39.00
+33,19,"1300 Columbus Ave",85.00,70.00
+34,19,"Private Option: 427 Post St",NULL,NULL
+35,19,"427 Post St",NULL,NULL
+36,20,"8:30 AM Departure",85.00,73.95
+37,20,"2 PM Departure",85.00,73.95
+38,20,"11 AM Departure",85.00,73.95
+39,20,"5 PM Departure",NULL,NULL
+40,21,"Alcatraz and Golden Gate Bridge Express",97.99,80.70
+41,21,"Alcatraz Across Bridge UPGRADE",125.99,103.76
+42,21,"Van+WalkEntireBridge w/Brunch",135.00,111.19
+43,22,"Mission District",89.00,76.40
+44,22,"North Beach and Chinatown",89.00,76.40
+45,22,"Private Tour Option",306.00,262.67
+46,23,"Public Tour by Classic Bike",65.00,52.03
+47,23,"Public Tour by Electric Bike",95.00,76.04
+48,24,"SF City Tour (2 hrs) - Classic",72.99,62.65
+49,25,"Historical NorthBeach Pub Tour",39.00,33.93
+50,26,"Airplane Napa Valley Flight Tour",618.00,547.67
+51,28,"Group of 1 - 4",434.00,377.58
+52,29,"Photo tour of the San Francisco Lights by Tesla / 10 locations",199.99,173.99
+53,30,"Luxury Love Tour Services",89.00,77.43
+54,31,"Private SUV Tour of San Francisco's Movie and TV Locations",400.00,329.44
+55,32,"The Bay Area Bash Scavenger Hunt",30.77,26.76
+56,33,"Point Reyes National Seashore Self Guided Driving Audio Tour",15.29,13.29
+57,34,"True Crime Tales from the Haight Walking Tour",39.00,33.93
+58,35,"4 Hour Tour",400.00,348.00
+59,36,"Self-Guided Golden Gate Bridge Bike or Walking App Tour",5.00,4.35
+60,37,"Self Guided Chinatown Tour: Food, History and Culture",5.99,5.21
+61,38,"The Painted Ladies and Victorian Homes of Alamo Square Tour",35.00,30.45
+62,40,"Tour Only",20.00,17.41
+63,40,"Tour + Park Entrance",95.00,85.96
+64,41,"Sunset Distillery with Local Whiskey or Cocktail Tasting",33.99,30.75
+65,42,"San Francisco tour",450.00,386.27
+66,42,"San Francisco 49 mile route tour",NULL,NULL
+67,43,"Half Moon Bay Guided E-Bike Tour",110.00,90.60
+68,44,"City and Ferry Building Tour",99.00,86.13
+69,44,"City Tour + Alcatraz",169.00,147.03
+70,47,"Golden Gate Trail: A Presidio Journey in San Francisco",768.92,660.03
+71,48,Tour,149.99,130.49
+72,49,"Guided Tour of Historic Gold Rush Synagogue",20.00,17.41
+73,50,"San Francisco Chinatown: A Cultural Walking Adventure",663.17,569.27
+74,51,"San Francisco Instagram Walking Private Tour: Most Iconic Spots",321.00,279.27
+75,52,"Alcatraz Night Tour with 1-Day City Bus Tour in San Francisco",175.00,144.13
+76,53,"San Francisco Presidio Scavenger Hunt Walking Tour and Game",49.00,34.10
+77,54,"Enchanting Escapades: Surreal San Francisco Tour",664.27,570.20
+78,56,"Walking Tour of Nob Hill - Cable Cars, Luxury Hotels, French-Gothic Cathedral",175.00,152.25
+79,57,"Tour Only (No Driver)",28.00,24.35
+80,57,"Unlimited Uber Pass",236.00,205.31
+81,57,"Unlimited Uber Pass / Pickup",348.00,302.75
+82,57,"Private Luxury Driver Included",480.00,417.60
+83,57,"Private Luxury Van/Chauffeur",840.00,730.80
+84,58,"Walking tour",696.22,581.48
+85,59,"Tours and Rates",250.00,217.50
+86,60,"Private Street Art Tour in San Francisco",242.35,199.60
+87,63,"Tesla Model 3",450.00,349.74
+88,63,SUV,550.00,427.46
+89,64,"Private Tour Guide San Francisco with a Local: Kickstart your Trip",141.02,117.78
+90,65,"San Francisco Golden Gate Park Tour",65.00,56.55
+91,66,"Delicious Fun Food and History Tour of North Beach and Beyond!",72.00,62.64
+92,67,"1 PM",17.60,15.91
+93,67,11am,17.60,15.91
+94,68,Tours,65.00,56.55
+95,69,"Luxury Sedan",449.99,365.38
+96,69,"Luxury SUV",549.99,446.58
+97,71,"3-Hour Beyond the Bridge Buggy Tour to Sausalito",301.68,262.46
+98,72,"2 Hour Evening Jeep Tour",338.00,294.06
+99,73,"Guided Bike tour across the Golden Gate Bridge",55.00,47.85
+100,74,"City & Woods: 1 Day Hop-On Hop-Off & Muir Woods Tour",155.99,135.70
+101,75,"Boat and Bus Adventure",81.99,70.37
+102,76,Minivan,799.00,695.13
+103,76,"San Francisco City Morning Tour, Small Group",1399.00,1217.13
+104,77,"2hrs- Beyond the Bridge - Marin Headlands GoCar Tour",234.25,203.79
+105,78,"San Francisco Virtual Food Tour with Local Guide",19.00,16.53
+106,79,"Private Food Tour of the Mission District - San Francisco",440.00,382.80
+107,80,"San Francisco Local Fashion Shopping Tour with a Stylist",158.02,137.47
+108,81,"Alcatraz Day Tour and San Francisco Bay Cruise",145.00,114.38
+109,82,"Historical tour in San Francisco",678.59,582.50
+110,83,"Streets and Stairways of San Francisco with Local Guided Tour",50.00,41.18
+111,85,"Icons of San Francisco Tour (Walking & Metro)",60.00,52.19
+112,86,"Behind the Scenes San Francisco Visual Experience Ticket",125.00,113.10
+113,87,"The Vibrant Castro & Mission District: Private Half-Day Tour",450.00,391.50
+114,88,"2 to 3 Hour Bar Crawl in Castro San Francisco",59.99,52.18
+115,89,"Private Tour Muir Woods and Sausalito",599.00,555.87
+116,90,"North Beach: Gourmet Ghost Tour in San Francisco",99.00,86.13
+117,91,"San Francisco Embarcadero Scavenger Hunt Walking Tour and Game",49.00,34.10
+118,92,"3 hrs",141.02,116.14
+119,92,"4 hrs",179.48,147.82
+120,92,"6 hrs",256.40,211.16
+121,92,"8 hrs",282.04,232.28
+122,93,"Wonders of San Francisco City Self-Guided Driving Audio Tour",16.99,14.18
+123,94,"Join a group",171.85,147.51
+124,94,"Private tour",1287.78,1105.43
+125,96,"San Francisco Castro Mission Loop Tour",65.00,52.78
+126,97,"Private Tour",256.67,223.31
+127,99,"San Francisco Four Peaks Tour",65.00,52.78
+128,100,"Billionaire Row and Palace of Fine Art Walking Tour",33.00,28.71
+129,101,"Mission District food and history Walking Tour: Small group",93.00,80.91
+130,102,"San Francisco Fisherman's Wharf Private 1-Hour Walking Tour",9.00,6.26
+131,103,"Gold Rush to Golden Gate: Self-Guided Tour of San Francisco",9.99,8.10
+132,104,"San Francisco Fishermans Wharf self-guided walking tour & hunt",37.58,26.59
+133,105,"Kickstart San Francisco Tour",87.03,75.71
+134,106,"Gold Rush Exploration Game in San Francisco, Financial District",11.01,6.37
+135,107,"Over the Rainbow in the Castro: A San Francisco Chronicle Self-Guided Tour",7.99,6.95
+136,108,"San Francisco Cow Hollow Tour",65.00,56.55
+137,109,"Sensational San Francisco Self-Guided Audio Tour",15.90,13.82
+138,110,"Alcatraz Combo",235.00,177.19
+139,111,"San Francisco Wine Tour with a Local Expert: 6 Tastings 100% Personalized",253.32,220.38
+140,112,"9 AM 4 Hour Private Tour",638.67,555.64
+141,113,"San Francisco Sunset Photography Tour",350.00,247.66
+142,114,"Private Tour - 1:30pm",650.00,565.50
+143,114,"Private Tour - 8:30am",650.00,565.50
+144,115,"4-Hour Painted Ladies and Haight-Ashbury GoCar Tour",271.88,220.76
+145,117,"2:00 pm Tour",109.00,93.56
+146,118,"Private tour",1430.98,1195.16
+147,119,"The Best of San Francisco: Private Half-Day Walking Tour",600.00,521.99
+148,120,"Airport P-U with City Tour SED",385.00,308.16
+149,120,"SFO Pick-Up with City Tour SUV",412.50,330.16
+150,121,"San Francisco 35+ Attraction Tesla Tour w/Ferry Cruise",498.00,427.49
+151,122,"The Mission District: San Francisco's Hip Melting Pot",179.48,154.06
+152,124,"4 Hours Tour Beyond the Golden Gate Bridge Marin Headlands and Sausalito",356.05,309.76
+153,125,"2 Hour Bike Tour, Regular Bike",59.75,48.51
+154,125,"2 Hour Bike Tour, eBike (13+)",81.47,66.15
+155,127,"Saturday Afternoon",216.00,187.91
+156,128,"Sunset Tour",44.10,34.50
+157,128,"1-Day Discover Ticket",63.00,46.00
+158,128,"1-Day Essential Ticket",65.70,47.97
+159,128,"2-Day Explore Ticket",76.50,55.85
+160,129,"One-Way Transfer from Yosemite to San Francisco | One Way from Yosemite",125.00,97.78
+161,129,"One-Way Transfer from San Francisco to Yosemite | One Way from San Francisco",125.00,97.78
+162,129,"Yosemite Day Tour with English-Speaking Tour Guide | Full Day Tour",215.00,168.18
+163,130,"Muir Woods and Sausalito Half Day Tour with Return Ferry (10:30 Departure)",115.00,91.45
+164,131,"7:40 AM MW Tour /Return by Bus",96.00,82.41
+165,131,"10:40AM MW Tour + Return Ferry",115.00,98.71
+166,131,"7:40AM MW Tour + Return Ferry",NULL,NULL
+167,131,"10:40AM MW Tour/ Return by Bus",NULL,NULL
+168,131,"1:40PM MW Tour/ Return by Bus",NULL,NULL
+169,131,,NULL,NULL
+170,132,"8:00 AM Departure (6 Hours)",129.00,107.74
+171,132,"8:00AM with Alcatraz Add on",189.00,157.86
+172,133,"All in One Day Tour",109.00,88.51
+173,133,"Day Tour + Alcatraz Ticket",NULL,NULL
+174,134,"Small Group Yosemite and Giant Sequoias Day Trip from San Francisco",224.00,194.88
+175,135,"Napa and Sonoma Wine Country Full-Day Tour from San Francisco",160.00,137.35
+176,136,"8am Tour WITHOUT Alcatraz",129.00,110.73
+177,136,"8am Tour INCLUDING Alcatraz",189.00,162.24
+178,137,"Big Bus Muir Woods + Sausalito Tour",84.00,73.53
+179,138,"Small-Group Yosemite Day Tour from San Francisco",199.00,161.58
+180,139,"Alcatraz & Streets of San Francisco Tour",235.00,235.00
+181,140,"Alcatraz & the Golden Gate Bridge to Sausalito Tour",179.00,179.00
+182,141,"Pier Woods Super Saver",97.99,87.97
+183,141,"Pier Woods Brunch Bunch",129.99,116.71
+184,141,"Pier Woods Date Night",149.99,134.67
+185,142,"Full-Day Private San Francisco Bay Sailing Tour",1120.00,1005.58
+186,143,"Muir Woods + Wine (No Lunch)",179.00,153.65
+187,143,"Lunch Upgrade",NULL,NULL
+188,144,"Full Day English Tour",199.00,166.20
+189,145,"San Francisco City Tour (Morning Departure)",69.00,54.85
+190,146,"Join-In Tour with Bay Cruise",125.00,99.39
+191,147,"Hop-On Hop-Off Bus Tour",85.09,67.65
+192,148,"Monterey and Carmel",120.00,100.23
+193,149,"Small-Group Half Day Muir Woods and Sausalito Morning Tour",79.00,64.14
+194,150,"Private Enchanted Napa and Sonoma Wine Tour in SUV from SFO",985.00,845.52
+195,151,"Private Tour for 1 passenger",3044.83,2649.00
+196,152,"Tesla Model 3",1500.00,1218.00
+197,152,"SUV for Large Groups",2000.00,1624.00
+198,154,"Departure Time",189.00,164.43
+199,155,"Private Full Day Yosemite National Park Tour from San Francisco",975.00,848.25
+200,156,"Tour Only (No Driver)",28.00,24.35
+201,156,"Unlimited Uber Pass",236.00,205.31
+202,156,"Unlimited Uber Pass / Pickup",348.00,302.75
+203,156,"Private Luxury Driver Included",480.00,417.60
+204,156,"Private Luxury Van/Chauffeur",840.00,730.80
+205,157,"Bus & Boat & Bike Adventure - 3 tours in 1",129.99,117.61
+206,158,"Half-Day Private Champagne and Wine Tour to Sonoma and Napa",799.00,695.13
+207,159,"Silicon Valley Private Tour",400.00,348.00
+208,160,SUV,999.00,869.13
+209,160,"Muir Woods, Sausalito, Marin Headlands, Point Bonita Lighthouse",1599.00,1391.13
+210,161,"Muir Woods Sausalito Entry & Ferry to Fishermans Wharf included",149.00,124.44
+211,162,"From SFO-Yosemite National Park-Enchanting Full Day Tour in SUV",285.00,238.03
+212,163,"San Francisco E-bike Tour on Scenic Trails",50.00,40.61
+213,164,"Muir Woods and Sausalito Tour Entrance Fee Included",99.00,80.38
+214,166,"8 Hour Private SUV Wine Tour Experience",800.00,649.60
+215,167,"8 Hour 12 Passengers Mercedes sprinter limo bus Wine tour",1500.00,1218.00
+216,168,"Private Yosemite National Park Day Trip from San Francisco",4110.00,3575.67
+217,169,"8-Hours Napa Wine Tour from San Francisco Private Crossover up to 6 People",1099.00,956.13
+218,170,"Wine Country Tour",750.00,643.80
+219,171,"APP Self-Guided Route San Francisco with Audioguide",8.81,5.11
+220,173,"Sustainable Wine and Distillery Tour with Lunch",250.00,217.50
+221,174,"Shore Excursion in SFO - Enchanted Napa & Sonoma Wine Tour in SUV",285.00,241.33
+222,175,"SEDAN - Wine Tour (8 Hours)",929.50,743.97
+223,175,"SUV - Wine Tour (8 Hours)",1023.00,818.81
+224,176,"Private Tour of John Muire and Sausalito",600.00,466.32
+225,177,"Private Napa Sonoma Wine Tour with Guide",895.00,778.65
+226,178,"Private Monterey, Carmel and 17-Mile Drive Day Trip from San Francisco",2970.00,2480.57
+227,180,"E-Bike tour to Muir Woods",60.00,50.11
+228,181,"San Francisco, Golden Gate, Sausalito and Muir Woods Private Tour",450.00,344.51
+229,182,"Private Champagne Wine Tour",1699.00,1478.13
+230,182,"Private Champagne Wine Tour",2999.00,2609.12
+231,183,"Sillicon Valley",2709.94,2294.77
+232,184,"5 hours private napa wine tour from san francisco up to 7 people",390.00,352.87
+233,185,"SUV or Minivan",999.00,695.30
+234,185,"Private Tour to Muir Woods, Sausalito, Marin Headlands, Point Bonita Lighthouse",NULL,NULL
+235,186,"8 Hour Napa and Sonoma Valley tour",816.00,709.92
+236,187,"Muir Woods, Sausalito and San Francisco City Combo Private Tour",1200.00,1044.00
+237,188,"Private Tour Muir Woods and Sausalito",599.00,555.87
+238,189,"Private Wine Tour Napa or Sonoma from $99 per person up to 7 & Concierge Service",594.00,516.80
+239,190,"8 Hour Napa and Sonoma Valley tour",816.00,709.92
+240,191,"Muir Woods, Sausalito and San Francisco City Combo Private Tour",1200.00,1044.00
+241,192,"Private Tour Muir Woods and Sausalito",599.00,555.87
+242,193,"Private Wine Tour Napa or Sonoma from $99 per person up to 7 & Concierge Service",594.00,516.80
+243,194,"San Francisco: Discover The Must See In A Day",282.04,245.36
+244,195,"San Francisco city tour & Muir Woods / Sausalito",435.90,364.05
+245,196,"3 hrs",141.02,116.14
+246,196,"4 hrs",179.48,147.82
+247,196,"6 hrs",256.40,211.16
+248,196,"8 hrs",282.04,232.28
+249,197,"Bike Rental with Ferry Return",64.36,52.26
+250,197,"eBike Rental with Ferry Return",89.35,72.55
+251,198,"Gold Rush to Golden Gate: Self-Guided Tour of San Francisco",9.99,8.10
+252,199,"8-Hours Napa Wine Tour from San Francisco to Napa CA , Sedan up to 4 People",1050.00,913.50
+253,200,"SEDAN - Wine Tour (6 Hours)",660.00,528.26
+254,200,"SUV - Wine Tour (6 Hours)",733.70,587.25
+255,201,"8-Hours Private Limo(up to 8 pass.) Wine Tour of Napa Valley from San Francisco",1499.00,1286.74
+256,202,"Full Day City & Redwoods Tour",834.00,628.84
+257,203,"Muir Woods (Bus Tour)",96.00,83.52
+258,204,"Private tour",1403.44,1155.88
+259,205,"Alcatraz Combo",235.00,177.19
+260,206,"8:30am Departure",89.00,76.40
+261,207,"3 Passengers SEDAN.",883.10,747.80
+262,207,"6 Passengers - SUV.",993.50,841.29
+263,207,"12 Passengers - SPRINTER.",1689.49,1430.65
+264,208,"Mix & Save: Muir Woods and Sausalito + Escape From the Rock Cruise",129.00,112.23
+265,209,"City Tour and Escape From Rock",99.00,86.13
+266,210,"Russian River Tour SUV",715.00,622.05
+267,211,"SUV Tour To Silicon Valley Including Stanford Walking Tour",1099.00,892.38
+268,213,"San Francisco Private Car Tour: Instagram's Most Famous Spots",706.00,614.22
+269,214,"Up to 6 People in Luxury SUV",999.00,834.36
+270,214,"Tour in 14-Passenger Van",1699.00,1419.00
+271,215,"Yosemite Day Tour",1820.00,1583.39
+272,216,"Napa and Sonoma VIP Private Tour",1335.00,1161.45
+273,217,"Union Square Macy's (SF1)",141.50,121.47
+274,218,"Alcatraz Inside Sausalito California Wine Tasting Experience",149.99,125.27
+275,219,"Alcatraz Day Tour and 1-Day City Bus Tour in San Francisco",170.00,136.06
+276,221,"City Insider's Tour",69.00,57.63
+277,221,"Bay Cruise Add On",105.00,87.69
+278,221,"24-hour Bike Rental add-on",109.00,91.04
+279,221,"Escape from the Rock Add On",111.00,92.70
+280,222,"Tour WITHOUT Alcatraz",129.00,104.75
+281,222,"Tour WITH Alcatraz",NULL,NULL
+282,223,"Local Flavors: An Insider's Tour of San Francisco's Hidden Gems",99.00,84.98
+283,224,"Courtyard Oakland (SC1)",166.50,142.92
+284,224,"Union Square Macy's(SC1)",166.50,142.92
+285,224,"99 Ranch Market San Jose (SC1)",166.50,142.92
+286,224,"168 Market,Fremont(SC1)",166.50,142.92
+287,224,"Fairfield Inn Millbrae (SC1)",166.50,142.92
+288,225,"Private Tours of San Francisco with a Local Guide: 100% Personalized",282.04,242.10
+289,226,"The Ultimate Napa and Sonoma Wine Tour",139.00,108.03
+290,227,"Make the Most of SF in One Day: Small Group Walking Tour",89.00,77.43
+291,228,"Alcatraz and Bike Tour Combo",179.00,145.34
+292,229,"Combo Small-Group Tour: SF City plus Muir Woods & Sausalito",149.00,103.70
+293,230,"Monterey + Carmel",119.00,103.53
+294,231,"2 Hour Bike Rental",21.73,16.38
+295,231,"4 Hour Rental",43.45,32.76
+296,231,"Day Pass Bike Rental",48.88,36.86
+297,232,"Tour Only Morning",89.00,77.43
+298,232,"Morning Tour plus Ferry Ticket",105.00,91.35
+299,233,"Shore Excursion: Coastal Redwoods and San Francisco Hop-On Hop-Off Tour",140.00,121.79
+300,234,"Giant Redwoods Tour Including a 5-Course Winery Lunch",234.00,211.72
+301,235,"Highway 1 Self-Driving Audio Tour (Pacific Coast Highway)",24.99,20.87
+302,236,"San Francisco city tour",525.00,456.75
+303,237,"Private Vintage Wine Tour",1399.00,1103.53
+304,238,Van,1799.00,1398.18
+305,239,"Small-Group Giant Redwoods and Russian River Wine Country Trip",378.00,324.47
+306,240,"Small-Group Half Day Sonoma Wine Country Tour with Two Tastings",189.00,153.47
+307,241,"Muir Woods & Wine County",189.00,164.43
+308,242,"Muir Woods & Alcatraz-off Peak",160.00,139.20
+309,242,"Muir Woods & Alcatraz-Peak",160.00,139.20
+310,243,"Alcatraz and Madame Tussauds San Francisco",85.00,81.35
+311,244,"Small Group Woods Sausalito",139.99,118.54
+312,245,"Van, up to 14-people",1699.00,1478.13
+313,246,"Optional Lunch Package",165.00,143.55
+314,246,"Wine Country Day Trip",165.00,143.55
